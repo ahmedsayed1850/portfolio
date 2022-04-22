@@ -30,7 +30,7 @@ const Projects = () => (
         ({ id, image, title, description, tags, source, visit }) => (
           <BlogCard key={id}>
             <Img
-              style={{ height: "30vh", borderRadius: "5px 5px 0px 0px" }}
+              style={{ height: "250px", borderRadius: "5px 5px 0px 0px" }}
               src={image}
             />
             <TitleContent>
