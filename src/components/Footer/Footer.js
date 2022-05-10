@@ -24,15 +24,15 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:+201008012559">+20-100-801-2559</LinkItem>
+          <LinkItem href="tel:+201148903864">+20-114-890-3864</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>E-Mail</LinkTitle>
           <LinkItem
-            href="mailto:contact@ahmed-el-sayed.com"
+            href="mailto:ahmedelsayedgam@gmail.com"
             style={{ whiteSpace: "nowrap" }}
           >
-            contact@ahmed-el-sayed.com
+            ahmedelsayedgam@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
